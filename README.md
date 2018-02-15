@@ -1,7 +1,7 @@
 # React Tutorial
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-You can access the guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+**You can access the tutorial guide [here](https://medium.com/@soraroxas85_12585/react-router-webapp-setup-the-basics-473a27a9e2b6).**
 
 ## Installation
 
